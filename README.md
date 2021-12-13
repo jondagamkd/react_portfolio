@@ -6,6 +6,8 @@
 
 ## Description 
 
+-Be adviced this repo was copied from a root github repo that was error-ing when deploying as a react app on guthub pages.  The old repo can be found he [HERE](https://jondagamkd.github.io/)
+
 I am a full stack developer in training currently looking for employment.  Please click the link below to see my current portfolio and feel free to browse my current projects.  If you are a potential employer or if you have any questions, please e-mail me at <johntaylorwoodland@gmail.com>
 
 
@@ -21,9 +23,9 @@ I am a full stack developer in training currently looking for employment.  Pleas
 
 ## Usage 
 
-- Go [HERE](https://jondagamkd.github.io/) to take a look at my portfolio.
+- Go [HERE](https://jondagamkd.github.io/react_portfolio) to take a look at my portfolio.
 
-[![screenshot](./src/assets/img/screenshot.jpg)](https://jondagamkd.github.io/)
+[![screenshot](./src/assets/img/screenshot.jpg)](https://jondagamkd.github.io/react_portfolio)
 
 
 ## Contributing
@@ -52,4 +54,4 @@ I can be contacted via email or on github at:
 
 ## Links
 
-- Go [HERE](https://jondagamkd.github.io/) to take a look at my portfolio.
+- Go [HERE](https://jondagamkd.github.io/react_portfolio) to take a look at my portfolio.

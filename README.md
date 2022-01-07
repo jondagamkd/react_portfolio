@@ -6,7 +6,7 @@
 
 ## Description 
 
--Be adviced this repo was copied from a root github repo that was error-ing when deploying as a react app on guthub pages.  The old repo can be found he [HERE](https://jondagamkd.github.io/)
+-Be advised this repo was copied from another of my github repos that was error-ing due to it being a root github repository.  The old repo can be found he [HERE](https://github.com/jondagamkd/jondagamkd.github.io) for previous commits.
 
 I am a full stack developer in training currently looking for employment.  Please click the link below to see my current portfolio and feel free to browse my current projects.  If you are a potential employer or if you have any questions, please e-mail me at <johntaylorwoodland@gmail.com>
 

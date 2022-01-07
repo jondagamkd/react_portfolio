@@ -36,6 +36,13 @@ const itemData = [
     git: 'https://github.com/jondagamkd/budget_tracker',
   },
   {
+    img: 'https://user-images.githubusercontent.com/74579301/148487809-6083de14-c2da-4c74-89c1-e97c996d9b7b.png',
+    title: 'Gametradez',
+    description: 'E-Commerce Game Website',
+    link: 'https://protected-anchorage-01372.herokuapp.com/',
+    git: 'https://github.com/GarciaE89/gametradez',
+  },
+  {
     img: 'https://raw.githubusercontent.com/jondagamkd/fantastic_umbrella/main/public/assets/img/umbrella.jpg',
     title: 'Fantastic Umbrella API',
     description: 'Experiemental Backend Database API',
